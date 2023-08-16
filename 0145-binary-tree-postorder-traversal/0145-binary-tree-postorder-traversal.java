@@ -18,8 +18,8 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
         postorder(root, ans);
         return ans;
-    }
-    
+  }
+
     private void postorder(TreeNode root, List<Integer> ans) {
         if (root == null)
             return;
