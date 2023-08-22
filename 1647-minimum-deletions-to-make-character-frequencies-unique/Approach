@@ -1,0 +1,24 @@
+This code defines a Java class 'Solution' that aims to find the minimum number of deletions required in a string 's' such that no two distinct characters have the 
+same frequency. In other words, the goal is to make the frequencies of all characters in the string unique by removing as few characters as possible.
+
+Here's a breakdown of the approach used in the code:
+
+1. Initialize variables:
+  - 'ans': To keep track of the number of deletions required.
+  - 'count': An array of size 26 to store the frequency of each lowercase English letter ('a' to 'z').
+  - 'usedfreq': A set to store frequencies that have already been encountered.
+
+2. Loop through the characters of the input string s and populate the 'count' array:
+  - Increment the count of the character at its corresponding index in the 'count' array (e.g., 'a' - 'a' = 0, 'b' - 'a' = 1, and so on).
+
+3. Iterate through the count array:
+  - For each frequency 'freq', check if it's greater than zero and whether it's already present in the usedFreq set.
+  - If it is, decrement 'freq', indicating that we are removing a character to decrease its frequency.
+  - Increment the 'ans' counter to keep track of the number of deletions made.
+
+4. After processing a frequency, add it to the 'usedfreq' set to mark that this frequency has been used.
+
+5. Finally, return the 'ans' which represents the minimum number of deletions required to achieve the desired condition.
+
+
+This approach ensures that you're trying to maintain unique frequencies for each character while minimizing the number of deletions needed. It iterates through the character counts and, whenever it encounters a frequency that has already been used, it decrements the frequency and increments the 'ans' counter to account for the character deletion.
