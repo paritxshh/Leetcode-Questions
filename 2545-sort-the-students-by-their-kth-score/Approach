@@ -1,0 +1,20 @@
+This code defines a Java class Solution with a method 'sortTheStudents' that takes in a 2D array score representing students' scores and an integer 'k' specifying 
+the index of the column by which the array should be sorted. The goal is to sort the students' scores in descending order based on the values in the specified column 
+'k'.
+
+Here's the breakdown of the code and its approach:
+
+1. 'public int[][] sortTheStudents(int[][] score, int k)'
+  - This is the method declaration. It takes a 2D integer array 'score' and an integer 'k' as parameters. It will return a 2D integer array after sorting.
+
+2. 'Arrays.sort(score, (a, b) -> b[k] - a[k]);'
+  - This line sorts the score array using the 'Arrays.sort' method and a custom comparator provided as a lambda expression. The lambda expression '(a, b) -> b[k] - 
+    a[k]' defines a comparison between two rows (arrays) 'a' and 'b' based on the values in column 'k'.
+  - 'b[k] - a[k]' sorts the rows in descending order based on the values in column k. If 'b[k]' is greater than 'a[k]', the result will be positive, leading to 'b' 
+    coming before 'a' in the sorted order. This results in a descending sort.
+
+3. 'return score;'
+  - The sorted 'score' array is returned as the result of the 'sortTheStudents' method.
+
+
+The approach used here is to sort the 2D array of students' scores based on a specific column (specified by 'k') using the Java 'Arrays.sort' method. The custom comparator provided through the lambda expression allows you to specify the sorting criteria for the rows based on the values in the chosen column. In this case, the rows are sorted in descending order based on the values in the specified column.
