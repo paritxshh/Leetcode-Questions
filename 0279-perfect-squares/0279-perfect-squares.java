@@ -1,15 +1,19 @@
 class Solution {
     public int numSquares(int n) {
-        int[] dp = new int[n+1];
-        Arrays.fill(dp, n);
-            
-        dp[0] = 0;
-        dp[1] = 1;
-        
-        for (int i = 2; i <= n; ++i)
-            for (int j = 1; j * j <= i; ++j)
-                dp[i] = Math.min(dp[i], dp[i - j * j] + 1);
-        
-        return dp[n];
+        int m = (int) Math.sqrt(n);
+        int[][] f = new int[m + 1][n + 1];
+        for (var g : f) {
+            Arrays.fill(g, 1 << 30);
+        }
+        f[0][0] = 0;
+        for (int i = 1; i <= m; ++i) {
+            for (int j = 0; j <= n; ++j) {
+                f[i][j] = f[i - 1][j];
+                if (j >= i * i) {
+                    f[i][j] = Math.min(f[i][j], f[i][j - i * i] + 1);
+                }
+            }
+        }
+        return f[m][n];
     }
 }
