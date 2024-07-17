@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/paritxshh/Leetcode-Questions/tree/master/0626-exchange-seats) |
+| [1452-restaurant-growth](https://github.com/paritxshh/Leetcode-Questions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/paritxshh/Leetcode-Questions/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Greedy
 |  |
