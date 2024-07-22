@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0585-investments-in-2016](https://github.com/paritxshh/Leetcode-Questions/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/paritxshh/Leetcode-Questions/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/paritxshh/Leetcode-Questions/tree/master/0626-exchange-seats) |
+| [1258-article-views-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/1258-article-views-i) |
 | [1452-restaurant-growth](https://github.com/paritxshh/Leetcode-Questions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/paritxshh/Leetcode-Questions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/paritxshh/Leetcode-Questions/tree/master/1625-group-sold-products-by-the-date) |
