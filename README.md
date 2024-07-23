@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/1258-article-views-i) |
 | [1452-restaurant-growth](https://github.com/paritxshh/Leetcode-Questions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/paritxshh/Leetcode-Questions/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/paritxshh/Leetcode-Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/paritxshh/Leetcode-Questions/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/paritxshh/Leetcode-Questions/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/paritxshh/Leetcode-Questions/tree/master/1811-fix-names-in-a-table) |
