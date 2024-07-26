@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/paritxshh/Leetcode-Questions/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/1258-article-views-i) |
+| [1415-students-and-examinations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/paritxshh/Leetcode-Questions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/paritxshh/Leetcode-Questions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/paritxshh/Leetcode-Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
