@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/paritxshh/Leetcode-Questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/paritxshh/Leetcode-Questions/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/paritxshh/Leetcode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/paritxshh/Leetcode-Questions/tree/master/2087-confirmation-rate) |
 ## Greedy
 |  |
 | ------- |
