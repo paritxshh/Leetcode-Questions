@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1811-fix-names-in-a-table](https://github.com/paritxshh/Leetcode-Questions/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/paritxshh/Leetcode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/paritxshh/Leetcode-Questions/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/paritxshh/Leetcode-Questions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
 |  |
 | ------- |
