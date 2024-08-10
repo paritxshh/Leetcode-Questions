@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-students-and-examinations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/paritxshh/Leetcode-Questions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/paritxshh/Leetcode-Questions/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/paritxshh/Leetcode-Questions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/paritxshh/Leetcode-Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/paritxshh/Leetcode-Questions/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/paritxshh/Leetcode-Questions/tree/master/1670-patients-with-a-condition) |
