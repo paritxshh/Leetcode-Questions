@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/paritxshh/Leetcode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/paritxshh/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
+| [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/paritxshh/Leetcode-Questions/tree/master/0890-lemonade-change) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/paritxshh/Leetcode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
@@ -171,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
