@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/paritxshh/Leetcode-Questions/tree/master/0890-lemonade-change) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/paritxshh/Leetcode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Union Find
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/paritxshh/Leetcode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/paritxshh/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/paritxshh/Leetcode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -462,10 +466,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
