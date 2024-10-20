@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/paritxshh/Leetcode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [1002-maximum-width-ramp](https://github.com/paritxshh/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/paritxshh/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
