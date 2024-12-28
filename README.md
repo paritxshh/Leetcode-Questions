@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/paritxshh/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/paritxshh/Leetcode-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
