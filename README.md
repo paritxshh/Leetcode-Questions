@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
