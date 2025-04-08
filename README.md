@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Recursion
 |  |
 | ------- |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
