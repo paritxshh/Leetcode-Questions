@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/paritxshh/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/paritxshh/Leetcode-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/paritxshh/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
