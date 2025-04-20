@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/paritxshh/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/paritxshh/Leetcode-Questions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/paritxshh/Leetcode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/paritxshh/Leetcode-Questions/tree/master/0906-walking-robot-simulation) |
