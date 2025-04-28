@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -722,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/paritxshh/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/paritxshh/Leetcode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -768,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/paritxshh/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/paritxshh/Leetcode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -857,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/paritxshh/Leetcode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
