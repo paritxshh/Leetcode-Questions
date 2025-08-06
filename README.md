@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -949,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -956,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
+| [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
