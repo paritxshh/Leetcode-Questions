@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
@@ -858,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/paritxshh/Leetcode-Questions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
