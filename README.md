@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/paritxshh/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/paritxshh/Leetcode-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0867-new-21-game) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
@@ -865,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/paritxshh/Leetcode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/paritxshh/Leetcode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
