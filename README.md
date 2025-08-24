@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1511-count-number-of-teams) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0867-new-21-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/paritxshh/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/paritxshh/Leetcode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
