@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/paritxshh/Leetcode-Questions/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
