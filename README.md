@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/paritxshh/Leetcode-Questions/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/paritxshh/Leetcode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paritxshh/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
 ## String
 |  |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/paritxshh/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/paritxshh/Leetcode-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/paritxshh/Leetcode-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/2562-count-ways-to-build-good-strings) |
