@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/paritxshh/Leetcode-Questions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/paritxshh/Leetcode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/paritxshh/Leetcode-Questions/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/paritxshh/Leetcode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/paritxshh/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/paritxshh/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/paritxshh/Leetcode-Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2023-design-movie-rental-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/paritxshh/Leetcode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2107-find-unique-binary-string) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/paritxshh/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/paritxshh/Leetcode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/paritxshh/Leetcode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -933,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
 | [1477-product-of-the-last-k-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2023-design-movie-rental-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/paritxshh/Leetcode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -1081,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
