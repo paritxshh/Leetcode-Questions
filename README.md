@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/paritxshh/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/paritxshh/Leetcode-Questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/paritxshh/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/paritxshh/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/paritxshh/Leetcode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
