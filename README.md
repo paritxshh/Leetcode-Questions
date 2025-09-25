@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/paritxshh/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0118-pascals-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/paritxshh/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/paritxshh/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
