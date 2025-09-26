@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/paritxshh/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/paritxshh/Leetcode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
@@ -876,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0165-compare-version-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/paritxshh/Leetcode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/paritxshh/Leetcode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -896,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0731-my-calendar-ii) |
