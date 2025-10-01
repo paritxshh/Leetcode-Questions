@@ -4,4 +4,4 @@ class Solution:
         while numBottles >= numExchange:
             numBottles -= numExchange - 1
             ans += 1
-        return ans 
+        return ans
