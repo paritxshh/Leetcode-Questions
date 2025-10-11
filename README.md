@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/paritxshh/Leetcode-Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -598,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -800,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3242-count-elements-with-maximum-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/paritxshh/Leetcode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -843,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/paritxshh/Leetcode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
@@ -932,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/paritxshh/Leetcode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -964,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/paritxshh/Leetcode-Questions/tree/master/3827-implement-router) |
 ## Union Find
