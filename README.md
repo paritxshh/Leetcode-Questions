@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/paritxshh/Leetcode-Questions/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/paritxshh/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/paritxshh/Leetcode-Questions/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -850,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/paritxshh/Leetcode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1053,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/paritxshh/Leetcode-Questions/tree/master/3394-minimum-array-end) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1197,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1208,4 +1213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/paritxshh/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
