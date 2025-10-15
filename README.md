@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/paritxshh/Leetcode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -979,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/paritxshh/Leetcode-Questions/tree/master/3827-implement-router) |
 ## Union Find
