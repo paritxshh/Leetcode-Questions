@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/paritxshh/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/paritxshh/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/paritxshh/Leetcode-Questions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
@@ -820,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/paritxshh/Leetcode-Questions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
@@ -968,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
