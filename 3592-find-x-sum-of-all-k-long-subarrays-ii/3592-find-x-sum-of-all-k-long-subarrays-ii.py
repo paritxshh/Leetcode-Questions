@@ -1,51 +1,63 @@
 class Solution:
-    def findXSum(self, nums: List[int], k: int, x: int) -> List[int]:
-        def add(v: int):
-            if cnt[v] == 0:
-                return
-            p = (cnt[v], v)
-            if l and p > l[0]:
-                nonlocal s
-                s += p[0] * p[1]
-                l.add(p)
+    def findXSum(self, nums, k, x):
+        freq = Counter()
+        top = SortedList()
+        rest = SortedList()
+        top_sum = 0
+        ans = []
+
+        def balance():# keeps top and rest balanced
+            nonlocal top_sum
+            while len(top) < x and rest:
+                f, v = rest.pop()
+                top.add((f, v))
+                top_sum += f * v
+            while len(top) > x:
+                f, v = top.pop(0)
+                top_sum -= f * v
+                rest.add((f, v))
+            while rest and top and rest[-1] > top[0]:
+                f1, v1 = rest.pop()
+                f2, v2 = top.pop(0)
+                top_sum += f1 * v1 - f2 * v2
+                top.add((f1, v1))
+                rest.add((f2, v2))
+
+        def add(num):
+            nonlocal top_sum
+            old = (freq[num], num)
+            if old in top:
+                top.remove(old)
+                top_sum -= old[0] * old[1]
+            elif old in rest:
+                rest.remove(old)
+            freq[num] += 1
+            new = (freq[num], num)
+            rest.add(new)
+            balance()
+
+        def remove(num):
+            nonlocal top_sum
+            old = (freq[num], num)
+            if old in top:
+                top.remove(old)
+                top_sum -= old[0] * old[1]
             else:
-                r.add(p)
-
-        def remove(v: int):
-            if cnt[v] == 0:
-                return
-            p = (cnt[v], v)
-            if p in l:
-                nonlocal s
-                s -= p[0] * p[1]
-                l.remove(p)
+                rest.remove(old)
+            freq[num] -= 1
+            if freq[num] > 0:
+                rest.add((freq[num], num))
             else:
-                r.remove(p)
+                del freq[num]
+            balance()
 
-        l = SortedList()
-        r = SortedList()
-        cnt = Counter()
-        s = 0
-        n = len(nums)
-        ans = [0] * (n - k + 1)
-        for i, v in enumerate(nums):
-            remove(v)
-            cnt[v] += 1
-            add(v)
-            j = i - k + 1
-            if j < 0:
-                continue
-            while r and len(l) < x:
-                p = r.pop()
-                l.add(p)
-                s += p[0] * p[1]
-            while len(l) > x:
-                p = l.pop(0)
-                s -= p[0] * p[1]
-                r.add(p)
-            ans[j] = s
+        for i in range(k):# initial window
+            add(nums[i])
+        ans.append(top_sum)
 
-            remove(nums[j])
-            cnt[nums[j]] -= 1
-            add(nums[j])
+        for i in range(k, len(nums)):# slide the window
+            remove(nums[i - k])
+            add(nums[i])
+            ans.append(top_sum)
+
         return ans
