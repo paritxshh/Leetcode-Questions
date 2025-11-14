@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paritxshh/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/paritxshh/Leetcode-Questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2625-increment-submatrices-by-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/paritxshh/Leetcode-Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1176,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/paritxshh/Leetcode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/paritxshh/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/paritxshh/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
