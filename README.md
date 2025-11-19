@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/paritxshh/Leetcode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/paritxshh/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paritxshh/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/paritxshh/Leetcode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/paritxshh/Leetcode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2169-simple-bank-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/paritxshh/Leetcode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
