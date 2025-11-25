@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/paritxshh/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/paritxshh/Leetcode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/paritxshh/Leetcode-Questions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/paritxshh/Leetcode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/paritxshh/Leetcode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
