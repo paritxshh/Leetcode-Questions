@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/paritxshh/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3429-special-array-i) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1206,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/paritxshh/Leetcode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/paritxshh/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
