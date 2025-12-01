@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-grid-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/paritxshh/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paritxshh/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/paritxshh/Leetcode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/paritxshh/Leetcode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/paritxshh/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paritxshh/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1080,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/paritxshh/Leetcode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/paritxshh/Leetcode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/paritxshh/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/paritxshh/Leetcode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
