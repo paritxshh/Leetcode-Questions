@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/paritxshh/Leetcode-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2211-count-collisions-on-a-road](https://github.com/paritxshh/Leetcode-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/paritxshh/Leetcode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/paritxshh/Leetcode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/paritxshh/Leetcode-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2846-robot-collisions) |
