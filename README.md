@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/paritxshh/Leetcode-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/paritxshh/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/paritxshh/Leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/paritxshh/Leetcode-Questions/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2050-count-good-numbers) |
@@ -1346,6 +1347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/paritxshh/Leetcode-Questions/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/paritxshh/Leetcode-Questions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paritxshh/Leetcode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
