@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paritxshh/Leetcode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/paritxshh/Leetcode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paritxshh/Leetcode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/paritxshh/Leetcode-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -985,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/paritxshh/Leetcode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paritxshh/Leetcode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/paritxshh/Leetcode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
