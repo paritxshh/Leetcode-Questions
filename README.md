@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3625-count-number-of-trapezoids-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/paritxshh/Leetcode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/paritxshh/Leetcode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1086,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/paritxshh/Leetcode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1272,6 +1274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/paritxshh/Leetcode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/paritxshh/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
