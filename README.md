@@ -615,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/paritxshh/Leetcode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2035-count-sub-islands](https://github.com/paritxshh/Leetcode-Questions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -866,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/paritxshh/Leetcode-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1042,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/paritxshh/Leetcode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/paritxshh/Leetcode-Questions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/paritxshh/Leetcode-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1163,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/paritxshh/Leetcode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/paritxshh/Leetcode-Questions/tree/master/2035-count-sub-islands) |
+| [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/paritxshh/Leetcode-Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3863-power-grid-maintenance](https://github.com/paritxshh/Leetcode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Strongly Connected Component
