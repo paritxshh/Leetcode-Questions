@@ -411,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/paritxshh/Leetcode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
+| [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
@@ -1219,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/paritxshh/Leetcode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/paritxshh/Leetcode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1235,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/paritxshh/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/paritxshh/Leetcode-Questions/tree/master/0476-number-complement) |
+| [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
