@@ -684,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/paritxshh/Leetcode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/paritxshh/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/paritxshh/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/paritxshh/Leetcode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -798,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/paritxshh/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/paritxshh/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/paritxshh/Leetcode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -821,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/paritxshh/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/paritxshh/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/paritxshh/Leetcode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/paritxshh/Leetcode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -1077,6 +1081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/paritxshh/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
