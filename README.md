@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/paritxshh/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/paritxshh/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/paritxshh/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/paritxshh/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/paritxshh/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/paritxshh/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
@@ -1004,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1424,6 +1428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/paritxshh/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
