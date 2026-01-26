@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/paritxshh/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/paritxshh/Leetcode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/paritxshh/Leetcode-Questions/tree/master/1196-filling-bookcase-shelves) |
+| [1200-minimum-absolute-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
