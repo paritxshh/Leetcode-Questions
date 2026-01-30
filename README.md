@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/paritxshh/Leetcode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/paritxshh/Leetcode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/paritxshh/Leetcode-Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/paritxshh/Leetcode-Questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
@@ -1095,6 +1097,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1114,6 +1117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/paritxshh/Leetcode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
@@ -1449,6 +1453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
 |  |
@@ -1558,5 +1563,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/paritxshh/Leetcode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
