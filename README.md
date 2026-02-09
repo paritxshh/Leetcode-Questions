@@ -621,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/paritxshh/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -832,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -857,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -884,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -983,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -1319,6 +1324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/paritxshh/Leetcode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
