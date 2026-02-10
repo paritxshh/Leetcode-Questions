@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-minimum-cost-path-with-teleportations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/paritxshh/Leetcode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/paritxshh/Leetcode-Questions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -815,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3625-count-number-of-trapezoids-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/paritxshh/Leetcode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/paritxshh/Leetcode-Questions/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/paritxshh/Leetcode-Questions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -989,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1417,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/paritxshh/Leetcode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/paritxshh/Leetcode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
@@ -1491,6 +1495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
