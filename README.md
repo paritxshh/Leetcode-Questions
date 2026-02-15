@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/paritxshh/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/paritxshh/Leetcode-Questions/tree/master/0906-walking-robot-simulation) |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/paritxshh/Leetcode-Questions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
@@ -1359,6 +1362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/paritxshh/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
