@@ -996,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1366,6 +1367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/paritxshh/Leetcode-Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
