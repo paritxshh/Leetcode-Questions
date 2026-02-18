@@ -1374,6 +1374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/paritxshh/Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/paritxshh/Leetcode-Questions/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
