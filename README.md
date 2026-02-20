@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/paritxshh/Leetcode-Questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
@@ -998,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
