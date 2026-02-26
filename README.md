@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/paritxshh/Leetcode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/paritxshh/Leetcode-Questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0921-spiral-matrix-iii) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/paritxshh/Leetcode-Questions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/paritxshh/Leetcode-Questions/tree/master/1803-average-waiting-time) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/paritxshh/Leetcode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/paritxshh/Leetcode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1392,6 +1394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/paritxshh/Leetcode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/paritxshh/Leetcode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/paritxshh/Leetcode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
