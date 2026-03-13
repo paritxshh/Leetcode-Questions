@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/paritxshh/Leetcode-Questions/tree/master/3433-count-mentions-per-user) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/paritxshh/Leetcode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/paritxshh/Leetcode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1066,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2868-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1333,6 +1337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3453-separate-squares-i) |
