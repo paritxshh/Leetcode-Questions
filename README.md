@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/paritxshh/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/paritxshh/Leetcode-Questions/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/paritxshh/Leetcode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/paritxshh/Leetcode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/paritxshh/Leetcode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/paritxshh/Leetcode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/paritxshh/Leetcode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -711,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/paritxshh/Leetcode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/paritxshh/Leetcode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/paritxshh/Leetcode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -977,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/paritxshh/Leetcode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/paritxshh/Leetcode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/paritxshh/Leetcode-Questions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/paritxshh/Leetcode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
