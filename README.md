@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/paritxshh/Leetcode-Questions/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/paritxshh/Leetcode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1041,6 +1042,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/paritxshh/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1544,6 +1546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/paritxshh/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1684,6 +1687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3713-longest-balanced-substring-i) |
