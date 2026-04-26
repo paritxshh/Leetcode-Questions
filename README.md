@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/paritxshh/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/paritxshh/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -1007,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1045,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1313,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/paritxshh/Leetcode-Questions/tree/master/1876-map-of-highest-peak) |
@@ -1801,6 +1805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/paritxshh/Leetcode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/paritxshh/Leetcode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
