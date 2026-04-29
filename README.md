@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/paritxshh/Leetcode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/paritxshh/Leetcode-Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-maximum-score-from-grid-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/paritxshh/Leetcode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1088,6 +1089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/paritxshh/Leetcode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/paritxshh/Leetcode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/paritxshh/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1283,6 +1285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/paritxshh/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1607,6 +1610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/paritxshh/Leetcode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/paritxshh/Leetcode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3427-special-array-ii) |
