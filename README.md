@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paritxshh/Leetcode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/paritxshh/Leetcode-Questions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/paritxshh/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
@@ -1244,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/paritxshh/Leetcode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/paritxshh/Leetcode-Questions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/paritxshh/Leetcode-Questions/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/paritxshh/Leetcode-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0867-new-21-game) |
