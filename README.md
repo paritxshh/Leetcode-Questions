@@ -1404,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paritxshh/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/paritxshh/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0165-compare-version-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0611-valid-triangle-number) |
@@ -1650,6 +1651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/paritxshh/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0432-all-oone-data-structure](https://github.com/paritxshh/Leetcode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/paritxshh/Leetcode-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
