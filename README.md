@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/paritxshh/Leetcode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/paritxshh/Leetcode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/paritxshh/Leetcode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1306-jump-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1362,6 +1364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1484-linked-list-in-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1558-course-schedule-iv) |
