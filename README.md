@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/paritxshh/Leetcode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/paritxshh/Leetcode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1297,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/paritxshh/Leetcode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
