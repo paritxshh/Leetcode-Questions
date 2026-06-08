@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/paritxshh/Leetcode-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/paritxshh/Leetcode-Questions/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2141-maximum-running-time-of-n-computers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/paritxshh/Leetcode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/2145-grid-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/paritxshh/Leetcode-Questions/tree/master/2169-simple-bank-system) |
@@ -1494,6 +1496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/paritxshh/Leetcode-Questions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
