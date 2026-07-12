@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/paritxshh/Leetcode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1331-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -861,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -960,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/paritxshh/Leetcode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/paritxshh/Leetcode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
