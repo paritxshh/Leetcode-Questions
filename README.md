@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/paritxshh/Leetcode-Questions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1442,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/paritxshh/Leetcode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/paritxshh/Leetcode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1858,6 +1861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/paritxshh/Leetcode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/paritxshh/Leetcode-Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/paritxshh/Leetcode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
