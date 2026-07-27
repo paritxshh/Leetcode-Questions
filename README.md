@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/paritxshh/Leetcode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/paritxshh/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/paritxshh/Leetcode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1324,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/paritxshh/Leetcode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/paritxshh/Leetcode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/paritxshh/Leetcode-Questions/tree/master/1917-maximum-average-pass-ratio) |
