@@ -1200,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/paritxshh/Leetcode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/paritxshh/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1557,6 +1558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2092-find-all-people-with-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/paritxshh/Leetcode-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/paritxshh/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/paritxshh/Leetcode-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -2099,6 +2101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/paritxshh/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/paritxshh/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -2114,6 +2117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/paritxshh/Leetcode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/paritxshh/Leetcode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/paritxshh/Leetcode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
