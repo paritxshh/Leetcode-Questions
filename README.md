@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/paritxshh/Leetcode-Questions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3447-clear-digits](https://github.com/paritxshh/Leetcode-Questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
@@ -876,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/paritxshh/Leetcode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/paritxshh/Leetcode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1797,6 +1800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/paritxshh/Leetcode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/paritxshh/Leetcode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1941,6 +1945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/paritxshh/Leetcode-Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/paritxshh/Leetcode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paritxshh/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
