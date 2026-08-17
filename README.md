@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/paritxshh/Leetcode-Questions/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/paritxshh/Leetcode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/paritxshh/Leetcode-Questions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/paritxshh/Leetcode-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/paritxshh/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/paritxshh/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -1497,6 +1499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-max-dot-product-of-two-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1511-count-number-of-teams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1511-count-number-of-teams) |
+| [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1946,6 +1949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/paritxshh/Leetcode-Questions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
