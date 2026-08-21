@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/2998-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/paritxshh/Leetcode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/paritxshh/Leetcode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/paritxshh/Leetcode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3161-block-placement-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1746,6 +1748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/paritxshh/Leetcode-Questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1875,6 +1878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -1985,6 +1989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/2716-prime-subtraction-operation) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/paritxshh/Leetcode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/paritxshh/Leetcode-Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/paritxshh/Leetcode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -2134,6 +2139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/paritxshh/Leetcode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/paritxshh/Leetcode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/paritxshh/Leetcode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-find-the-count-of-good-integers) |
