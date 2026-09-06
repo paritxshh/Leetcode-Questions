@@ -641,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/paritxshh/Leetcode-Questions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/paritxshh/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/paritxshh/Leetcode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/paritxshh/Leetcode-Questions/tree/master/0179-largest-number) |
@@ -1497,6 +1498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
