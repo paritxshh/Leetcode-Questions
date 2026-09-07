@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1519,6 +1520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/paritxshh/Leetcode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/paritxshh/Leetcode-Questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/paritxshh/Leetcode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
