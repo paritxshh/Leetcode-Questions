@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/paritxshh/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/paritxshh/Leetcode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/paritxshh/Leetcode-Questions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/paritxshh/Leetcode-Questions/tree/master/0859-design-circular-deque) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/paritxshh/Leetcode-Questions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/paritxshh/Leetcode-Questions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/paritxshh/Leetcode-Questions/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/paritxshh/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/paritxshh/Leetcode-Questions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/0870-magic-squares-in-grid) |
