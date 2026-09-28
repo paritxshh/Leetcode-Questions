@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/paritxshh/Leetcode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/paritxshh/Leetcode-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/paritxshh/Leetcode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/paritxshh/Leetcode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/paritxshh/Leetcode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2333,4 +2335,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
