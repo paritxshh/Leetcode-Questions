@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/paritxshh/Leetcode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/paritxshh/Leetcode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paritxshh/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/paritxshh/Leetcode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2280-count-good-triplets-in-an-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/paritxshh/Leetcode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -1370,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/paritxshh/Leetcode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/paritxshh/Leetcode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paritxshh/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/paritxshh/Leetcode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/2411-spiral-matrix-iv) |
@@ -1603,6 +1605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/paritxshh/Leetcode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/paritxshh/Leetcode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/paritxshh/Leetcode-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paritxshh/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/paritxshh/Leetcode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -2336,4 +2339,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/paritxshh/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
