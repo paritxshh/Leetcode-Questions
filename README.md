@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/paritxshh/Leetcode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -822,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/paritxshh/Leetcode-Questions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/paritxshh/Leetcode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/paritxshh/Leetcode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/paritxshh/Leetcode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
@@ -2358,6 +2360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/paritxshh/Leetcode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/paritxshh/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
