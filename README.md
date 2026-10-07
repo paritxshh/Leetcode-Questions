@@ -671,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/paritxshh/Leetcode-Questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/paritxshh/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/paritxshh/Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/paritxshh/Leetcode-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/paritxshh/Leetcode-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -1687,6 +1688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/paritxshh/Leetcode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/paritxshh/Leetcode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1936,6 +1938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/paritxshh/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/paritxshh/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/paritxshh/Leetcode-Questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/paritxshh/Leetcode-Questions/tree/master/0679-24-game) |
