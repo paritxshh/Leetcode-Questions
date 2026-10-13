@@ -609,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/paritxshh/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/paritxshh/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/paritxshh/Leetcode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -992,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/paritxshh/Leetcode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/paritxshh/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
@@ -1090,6 +1092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/paritxshh/Leetcode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/paritxshh/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/paritxshh/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/paritxshh/Leetcode-Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/paritxshh/Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
