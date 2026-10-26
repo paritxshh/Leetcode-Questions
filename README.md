@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/paritxshh/Leetcode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/paritxshh/Leetcode-Questions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1380,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/paritxshh/Leetcode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/paritxshh/Leetcode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -1456,6 +1458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/paritxshh/Leetcode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paritxshh/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/paritxshh/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/paritxshh/Leetcode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/paritxshh/Leetcode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -1772,6 +1775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/paritxshh/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/paritxshh/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/paritxshh/Leetcode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/paritxshh/Leetcode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Binary Indexed Tree
@@ -2390,6 +2394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/paritxshh/Leetcode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/paritxshh/Leetcode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/paritxshh/Leetcode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/paritxshh/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
