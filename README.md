@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/paritxshh/Leetcode-Questions/tree/master/1500-count-largest-group) |
 | [1510-stone-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/paritxshh/Leetcode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paritxshh/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paritxshh/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/paritxshh/Leetcode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/paritxshh/Leetcode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1511-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/paritxshh/Leetcode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/paritxshh/Leetcode-Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/paritxshh/Leetcode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1695,6 +1697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/paritxshh/Leetcode-Questions/tree/master/1510-stone-game-iv) |
 | [1511-count-number-of-teams](https://github.com/paritxshh/Leetcode-Questions/tree/master/1511-count-number-of-teams) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/paritxshh/Leetcode-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/paritxshh/Leetcode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/paritxshh/Leetcode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -2137,6 +2140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/paritxshh/Leetcode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/paritxshh/Leetcode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/paritxshh/Leetcode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/paritxshh/Leetcode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/paritxshh/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/paritxshh/Leetcode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
